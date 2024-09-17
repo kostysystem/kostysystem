@@ -1,15 +1,13 @@
-<center>
+
 <br>
 <br>
 <img src="https://kostysystem.github.io/favicon.ico" width="70" height="70">
 <h1>KostySystem</h1>
-<h3><a href="https://kostysystem.github.io/">KostySystem</a> <a href="https://kostysystem.github.io/articles/">KostySystem - статьи</a> <a href="https://kostysystem.github.io/newbie/">Для новичков</a> <a href="https://kostysystem.github.io/blog/">KostySystem - блог</a></h3>
+<h3><a href="https://kostysystem.github.io/">KostySystem</a> <p>|</p> <a href="https://kostysystem.github.io/articles/">KostySystem - статьи</a> <p>|</p> <a href="https://kostysystem.github.io/newbie/">Для новичков</a> <p>|</p> <a href="https://kostysystem.github.io/blog/">KostySystem - блог</a></h3>
 <br>
 <hr>
 <br>
-</center>
-# Добро пожаловать в наш профиль на GitHub! 
-## KostySystem - это небольшой сайт на компьютерную тематику. На нём мы публикуем: наш блог, инструкции для новичков и наши статьи! Вы можете <a href="https://kostysystem.github.io/">посетить наш веб-сайт</a>!
+<h1>Добро пожаловать в наш профиль на GitHub!</h1> 
 <br>
 <h1>О нас</h1>
 <br><br>
