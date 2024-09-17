@@ -2,7 +2,7 @@
 <br>
 <br>
 <img src="https://kostysystem.github.io/favicon.ico" width="70" height="70">
-<p><b>KostySystem</b></p>
+<h3><b>KostySystem</b></h3>
 <h3><a href="https://kostysystem.github.io/">KostySystem</a> <a>|</a> <a href="https://kostysystem.github.io/articles/">KostySystem - статьи</a> <a>|</a> <a href="https://kostysystem.github.io/newbie/">Для новичков</a> <a>|</a> <a href="https://kostysystem.github.io/blog/">KostySystem - блог</a></h3>
 <br>
 <hr>
